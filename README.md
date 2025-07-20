@@ -7,50 +7,48 @@
 
 ### 👨‍💻 About Me
 
-I'm a passionate **Software Engineer** currently working at **ID Vision**, where I help build a platform to **train AI computer vision models**, manage datasets and annotate images — all from the **backend** using **Node.js** and **TypeScript**.
+I'm a passionate **Software Engineer** with strong interest in building clean, scalable and maintainable backend systems. I have solid experience using **.NET Core**, **Docker**, and **Domain-Driven Design (DDD)** — which I actively apply in my personal projects.
 
-I love solving complex problems and building scalable, robust systems. With experience in both **frontend** and **backend** technologies, I'm especially focused on backend development using **.NET Core**, **SQL**, **Docker** and modern web frameworks like **Angular**.
+Currently I am working with **Node.js** and **TypeScript** building and maintaining a platform dedicated to AI and computer vision. My main focus on this project is on backend architecture, and developing solutions following best practices like **SOLID** principles, and **Clean Code**.
 
 ---
 
 ### 🚀 Tech Stack
 
-- **Languages:** TypeScript, C#, C++, JavaScript, SQL
-- **Backend:** Node.js, .NET Core, Express
+- **Languages:** C#, TypeScript, C++, JavaScript, SQL
+- **Backend:** .NET Core, Node.js, Express
 - **Frontend:** Angular, HTML5, CSS3
+- **Architecture:** Domain-Driven Design (DDD), Clean Architecture, CQRS
+- **Tools:** Git, Docker, Postman, RabbitMQ
 - **Databases:** SQL Server, MySQL
-- **Tools:** Git, Docker, Postman, Figma
-- **Other:** REST APIs, Clean Architecture, CI/CD basics
 
 ---
 
-### 📌 Current Projects
+### 📌 Personal Projects
 
-- 🧠 Backend development at **ID Vision**, working on:
-  - Dataset management
-  - Image annotation tooling
-  - Training pipelines for AI models
+- 🧱 Backend systems with **.NET Core** + **DDD** + **EF Core**
+- 📊 Property price prediction system using **Python** and integrating it into an API using **ML.NET** and **ONNX**.
+- ⚙️ Automated ETL pipelines with C# and SQL
 
-- 🧪 Exploring personal projects involving AI, backend architecture, and developer tooling
-
----
-
-### 🌱 Always Learning
-
-- Advanced Node.js & TypeScript architecture
-- Scalable systems design
-- Cloud-native development (coming next!)
+> You can find some of these projects here on my GitHub 👇
 
 ---
 
-### 📫 Get in Touch
+### 🌱 Currently Exploring
 
-- 📍 La Bisbal d’Empordà, Girona
-- 💬 I'm always open to connecting and collaborating on exciting tech projects!
+- Advanced distributed systems
+- Kubernetes & container orchestration
+- Microservices architecture
+
+---
+
+### 📫 Let’s Connect
+
+- 📍 Based in Girona, Catalonia
+- 💬 Always open to learning, collaborating and contributing to interesting backend or open source projects!
 
 ---
 
 ### ⚡ Fun Fact
 
-I’m a big fan of clean code and learning how systems work from the ground up — whether it’s compilers, operating systems or AI models!
-
+I'm the kind of developer who enjoys reading codebases and writing unit tests as much as building features. I believe a good architecture is invisible, but its benefits are always felt.
