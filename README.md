@@ -3,6 +3,12 @@
 🎓 **Software Engineer** | 💻 Backend Developer | 🌍 Based in Girona, Spain  
 🔗 [LinkedIn](https://www.linkedin.com/in/albertmagi/) | 📧 martinezgispert2002@gmail.com
 
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
 ---
 
 ### 👨‍💻 About Me
@@ -41,6 +47,8 @@ Currently I am working with **Node.js** and **TypeScript** building and maintain
 - Microservices architecture
 
 ---
+
+Let’s build something great together. 💡
 
 ### 📫 Let’s Connect
 
