@@ -33,6 +33,7 @@ Currently I am working with **Node.js** and **TypeScript** building and maintain
 ### 📌 Personal Projects
 
 - 🧱 Backend systems with **.NET Core** + **DDD** + **EF Core**
+- 🎨 Frontend projects with **Angular** + **bootstrap**
 - 📊 Property price prediction system using **Python** and integrating it into an API using **ML.NET** and **ONNX**.
 - ⚙️ Automated ETL pipelines with C# and SQL
 
